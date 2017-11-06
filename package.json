@@ -1,0 +1,10 @@
+{
+  "name": "widget-test",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Graham",
+  "license": "MIT",
+  "dependencies": {
+    "local-web-server": "^2.3.0"
+  }
+}
